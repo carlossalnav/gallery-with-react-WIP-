@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gallery-with-react-WIP-/static/css/main.1d1668eb.chunk.css",
+    "main.js": "/gallery-with-react-WIP-/static/js/main.9d600b8d.chunk.js",
+    "main.js.map": "/gallery-with-react-WIP-/static/js/main.9d600b8d.chunk.js.map",
+    "runtime-main.js": "/gallery-with-react-WIP-/static/js/runtime-main.ccd7a512.js",
+    "runtime-main.js.map": "/gallery-with-react-WIP-/static/js/runtime-main.ccd7a512.js.map",
+    "static/js/2.54ace99e.chunk.js": "/gallery-with-react-WIP-/static/js/2.54ace99e.chunk.js",
+    "static/js/2.54ace99e.chunk.js.map": "/gallery-with-react-WIP-/static/js/2.54ace99e.chunk.js.map",
+    "index.html": "/gallery-with-react-WIP-/index.html",
+    "precache-manifest.1a02edf18ec37e760c97749cd76838d9.js": "/gallery-with-react-WIP-/precache-manifest.1a02edf18ec37e760c97749cd76838d9.js",
+    "service-worker.js": "/gallery-with-react-WIP-/service-worker.js",
+    "static/css/main.1d1668eb.chunk.css.map": "/gallery-with-react-WIP-/static/css/main.1d1668eb.chunk.css.map",
+    "static/js/2.54ace99e.chunk.js.LICENSE.txt": "/gallery-with-react-WIP-/static/js/2.54ace99e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd7a512.js",
+    "static/js/2.54ace99e.chunk.js",
+    "static/css/main.1d1668eb.chunk.css",
+    "static/js/main.9d600b8d.chunk.js"
+  ]
+}
